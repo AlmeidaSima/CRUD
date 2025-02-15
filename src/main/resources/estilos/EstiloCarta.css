@@ -1,0 +1,5 @@
+.fixed-img {
+    width: 100%;      /* Ancho al 100% del contenedor */
+    height: 200px;    /* Altura fija */
+    object-fit: cover; /* Recorta la imagen para llenar el espacio sin deformarla */
+}
