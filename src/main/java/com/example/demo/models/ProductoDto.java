@@ -8,13 +8,13 @@ import jakarta.validation.constraints.Size;
 
 public class ProductoDto {
 	
-	@NotEmpty(message = "The name is required")
+	@NotEmpty(message = "The name is required mi king")
 	private String name;
 	
-	@NotEmpty(message = "The name is required")
+	@NotEmpty(message = "The name is required mi king")
 	private String brand;
 	
-	@NotEmpty(message = "The name is required")
+	@NotEmpty(message = "The name is required mi king")
 	private String category;
 	
 	@Min(0)
