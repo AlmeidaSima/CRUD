@@ -1,11 +1,17 @@
 ## Descripción del cambio
 Describe claramente qué problema soluciona o qué funcionalidad agrega este Pull Request.
 
+---
+
 ## Causa raíz (si es bug fix)
 Si este PR soluciona un bug, describe brevemente la causa del problema.
 
+---
+
 ## Descripción de la solución
 Explica los cambios técnicos realizados y cómo solucionan el problema o implementan la funcionalidad.
+
+---
 
 ## Tipo de cambio
 Selecciona el tipo de cambio que aplica:
@@ -16,6 +22,8 @@ Selecciona el tipo de cambio que aplica:
 - [ ] Documentación
 - [ ] Cambios de estilo/formato
 - [ ] Mejora de rendimiento
+
+---
 
 ## ¿Cómo se ha probado?
 Describe las pruebas que realizaste:
@@ -31,6 +39,8 @@ Describe las pruebas que realizaste:
 - [ ] Edge
 - [ ] Safari
 
+------
+
 ## Checklist antes de solicitar revisión
 Verifica que has completado:
 
@@ -43,11 +53,17 @@ Verifica que has completado:
 - [ ] Las pruebas unitarias existentes pasan localmente
 - [ ] Los cambios dependientes han sido fusionados y publicados
 
+------
+
 ## Capturas de pantalla (si aplica)
 Si los cambios incluyen modificaciones visuales, agrega capturas aquí.
+
+------
 
 ## Notas adicionales
 Cualquier información adicional que los revisores deban saber.
 
 ---
-**Revisores sugeridos:** @nombre-dev1 @nombre-dev2
+
+**Revisores sugeridos:**  
+@nombre-dev1 @nombre-dev2
