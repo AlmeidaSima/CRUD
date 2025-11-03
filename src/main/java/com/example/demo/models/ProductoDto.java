@@ -20,7 +20,7 @@ public class ProductoDto {
 	@Min(0)
 	private double price;
 	
-	@Size(min = 10, message = "The description should be at least 10 characteres no te excedas mijo")
+	@Size(min = 10, message = "The description should be at least 10 characteres no se permiten mas")
 	private String description;
 	
 	private MultipartFile imageFile;
