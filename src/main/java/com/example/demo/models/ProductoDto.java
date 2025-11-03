@@ -14,13 +14,13 @@ public class ProductoDto {
 	@NotEmpty(message = "The name is required mi king")
 	private String brand;
 	
-	@NotEmpty(message = "The name is required mi king")
+	@NotEmpty(message = "The name is required mi kinssgs")
 	private String category;
 	
 	@Min(0)
 	private double price;
 	
-	@Size(min = 10, message = "The description should be at least 10 characteres")
+	@Size(min = 10, message = "The description should be at least 10 characteres no se permiten mas")
 	private String description;
 	
 	private MultipartFile imageFile;
