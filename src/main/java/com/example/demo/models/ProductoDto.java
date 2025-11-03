@@ -14,7 +14,7 @@ public class ProductoDto {
 	@NotEmpty(message = "The name is required mi king")
 	private String brand;
 	
-	@NotEmpty(message = "The name is required mi kings")
+	@NotEmpty(message = "The name is required mi kinssgs")
 	private String category;
 	
 	@Min(0)
